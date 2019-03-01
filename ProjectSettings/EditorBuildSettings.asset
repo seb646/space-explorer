@@ -4,5 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/Scenes/GazeWith3dObjectTest.unity
+    guid: b6f4c21208e59a64a90225e044e914bf
