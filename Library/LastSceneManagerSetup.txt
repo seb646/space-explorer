@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Resources/Scenes/GazeWith3dObjectTest.unity
+- path: Assets/Scenes/SceneOne.unity
   isLoaded: 1
   isActive: 1
